@@ -1,0 +1,100 @@
+{
+  "Students": [
+    {
+      "id": 1,
+      "name": "Ashik",
+      "course": "earn full stack",
+      "mobile": "m",
+      "email": "ashik@gmail.com",
+      "location": "ernakulam"
+    },
+    {
+      "id": 3,
+      "name": "ananda krishnan",
+      "course": "mearn full stack",
+      "mobile": "+918823678251",
+      "email": "ak@gmail.com",
+      "location": "ernakulam"
+    },
+    {
+      "id": 4,
+      "name": "Sooraj",
+      "course": "Mearn full stack",
+      "mobile": "+91 9923761898",
+      "email": "soora@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 6,
+      "name": "akash",
+      "course": "mearn full stack",
+      "mobile": "7559067051",
+      "email": "akash@gmail.com",
+      "location": "ernakulam"
+    },
+    {
+      "id": 7,
+      "name": "Akshay",
+      "course": "Mearn full stack",
+      "mobile": "91 9273892827",
+      "email": "akshay@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 8,
+      "name": "Prasanth",
+      "course": "Mearn full stack",
+      "mobile": "91 6728297671",
+      "email": "prsu@gamil.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 9,
+      "name": "Abhijith",
+      "course": "Mearn full stack",
+      "mobile": "91 7262871654",
+      "email": "abhik@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 10,
+      "name": "Ajith",
+      "course": "Mearn full stack",
+      "mobile": "91 776272617",
+      "email": "ajith@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 11,
+      "name": "Anaga",
+      "course": "Mearn full stack",
+      "mobile": "91 8899021818",
+      "email": "anag@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 12,
+      "name": "Vivek",
+      "course": "Mearn full stack",
+      "mobile": "91 7789890178",
+      "email": "viv54@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 13,
+      "name": "Pathu",
+      "course": "mearn full stack ",
+      "mobile": "91 6767825627",
+      "email": "pathu04312@gmail.com",
+      "location": "Ernakulam"
+    },
+    {
+      "id": 14,
+      "name": "Yadhu",
+      "course": "Mearn Full stack",
+      "mobile": "91 7685925168",
+      "email": "yadhu@gmail.com",
+      "location": "Ernakulam"
+    }
+  ]
+}

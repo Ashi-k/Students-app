@@ -1,0 +1,10 @@
+table {
+    width: 80%;
+  }
+  .allStudents{
+    padding: 20px;
+  }
+.hov:hover{
+  transform: scale(1.3);
+  font-weight: bolder;
+}

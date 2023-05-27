@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(87,197,182,1) 100%);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav {
+    background: rgb(26, 95, 122);
+    background: radial-gradient(circle, rgba(26, 95, 122, 1) 0%, rgba(0, 43, 91, 1) 100%);
+}
+
+footer {
+    background: rgb(26, 95, 122);
+    background: radial-gradient(circle, rgba(26, 95, 122, 1) 0%, rgba(0, 43, 91, 1) 100%);
+}

@@ -1,0 +1,11 @@
+.form-element{
+    width: 500px;
+}
+
+.allStudents{
+    padding: 20px;
+    width: 100%;
+  }
+  .hov:hover{
+    transform: scale(1.3);
+  }
